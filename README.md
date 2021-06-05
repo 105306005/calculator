@@ -6,7 +6,7 @@
 This project is a Calculator with Javascript.
 
 <!--
-<img src="https://maggiepractice.s3.amazonaws.com/bookmark.jpg" width="400" /> -->
+<img src="https://maggiepractice.s3.amazonaws.com/calculator.jpg" width="600" /> -->
 
 ## Technologies
 
