@@ -7,6 +7,8 @@ This project is a Calculator with Javascript.
 
 <img src="https://maggiepractice.s3.amazonaws.com/calculator.jpg" width="600" />
 
+Website Demo✨: https://105306005.github.io/calculator/
+
 ## Technologies
 
 Project is created with:
